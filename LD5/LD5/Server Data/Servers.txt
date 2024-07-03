@@ -1,0 +1,6 @@
+﻿10.0.0.23;www.amazon.com
+192.168.2.17;www.linkedin.com
+10.1.1.100;www.nytimes.com
+192.168.1.100;www.reddit.com
+192.168.1.1;www.facebook.com
+192.168.1.10000;www.neegzistuoja.com

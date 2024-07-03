@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LD4.Council">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJgAAABAAAAAEBAQAAQAASAAAAAAAEEAAAAAAAAAAA=</HashCode>
+      <FileName>Code\Council.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WebForm1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD4.InOutUtils">
+    <Position X="13.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAABAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD4.MusicQuestion">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAQEgAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Code\MusicQuestion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LD4.Question">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAgQQAgAAAAAAAAAAAAIAAAAAACiAAAAA=</HashCode>
+      <FileName>Code\Question.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Council" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LD4.TaskUtils">
+    <Position X="13.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Code\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD4.TestQuestion">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAAAAAQEgAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code\TestQuestion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LD4.ListIsEmptyException">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exeptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD4.FilesNotFound">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exeptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD4.WebForm1">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAQBgAIQAAYAAAAAAAAAoAAAA=</HashCode>
+      <FileName>PartialClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

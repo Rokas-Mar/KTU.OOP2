@@ -1,0 +1,20 @@
+Pradinis viršus:
+| r; g; y |
+| y; r; y |
+| r; y; r |
+
+Pradinė apačia:
+| g; g; g |
+| g; g; r |
+| y; r; g |
+
+Užpildytas viršus:
+| r; *; y |
+| y; r; y |
+| r; y; r |
+
+Užpildyta apačia:
+| *; *; * |
+| *; *; r |
+| y; r; * |
+

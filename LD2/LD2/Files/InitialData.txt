@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------
+| Pradiniai Turistai                                                                         |
+----------------------------------------------------------------------------------------------
+| Pavarde3             | Vardas7         | Pavadinimas1         | KambarioTipas   |        1 |
+| Pavarde3             | Vardas1         | Pavadinimas2         | KambarioTipas   |        2 |
+| Pavarde              | Vardas10        | Pavadinimas3         | KambarioTipas   |        3 |
+| Pavarde5             | Vardas          | Pavadinimas3         | KambarioTipas   |        4 |
+| Pavarde3             | Vardas2         | Pavadinimas4         | KambarioTipas   |        5 |
+| Pavarde1             | Vardas1         | Pavadinimas4         | KambarioTipas   |        5 |
+| Pavarde2             | Vardas1         | Pavadinimas1         | KambarioTipas   |        5 |
+| Pavarde3             | Vardas3         | Pavadinimas2         | KambarioTipas   |        5 |
+----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------
+| Pradiniai Viešbučiai                              |
+-----------------------------------------------------
+| Pavadinimas10        | KambarioTipas1  |    20.20 |
+-----------------------------------------------------
+
+Nei vienas viešbutis nebuvo pasirinktas

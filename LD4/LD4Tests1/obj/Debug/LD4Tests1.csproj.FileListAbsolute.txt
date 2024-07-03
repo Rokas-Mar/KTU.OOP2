@@ -1,0 +1,11 @@
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\bin\Debug\LD4Tests1.dll
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\bin\Debug\LD4Tests1.pdb
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\bin\Debug\LD4.dll
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\bin\Debug\LD4.pdb
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\bin\Debug\LD4.dll.config
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\obj\Debug\LD4Tests1.csproj.AssemblyReference.cache
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\obj\Debug\LD4Tests1.csproj.CoreCompileInputs.cache
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\obj\Debug\LD4Tests1.csproj.CopyComplete
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\obj\Debug\LD4Tests1.dll
+D:\KTU\KTU OP\OP2\LD4\LD4Tests1\obj\Debug\LD4Tests1.pdb

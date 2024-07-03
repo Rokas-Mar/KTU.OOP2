@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LD5.Exceptions">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="LD5.Exceptions.ListIsEmptyException">
+        <TypeIdentifier>
+          <NewMemberFileName>APP_Codes\Exceptions.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LD5.Exceptions.FilesNotFound">
+        <TypeIdentifier>
+          <NewMemberFileName>APP_Codes\Exceptions.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LD5.Exceptions.WrongDataFile">
+        <TypeIdentifier>
+          <NewMemberFileName>APP_Codes\Exceptions.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>APP_Codes\Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD5.InOutUtils">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhCAAAEAAABAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>APP_Codes\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD5.Form1">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAQACAAAAAAADgAIAAAYAAAAAAAAAoAAQA=</HashCode>
+      <FileName>APP_Codes\PartialForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD5.Server">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAAAAAAAAAAARQAYAAAAAAAABABAQAAAAAAA=</HashCode>
+      <FileName>APP_Codes\Server.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Servers" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD5.ServerInfo">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAAIAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>APP_Codes\ServerInfo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Server_Info" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD5.TaskUtils">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>APP_Codes\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD5.UserLogin">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAACQEA=</HashCode>
+      <FileName>APP_Codes\UserLogin.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Logins" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD5.UserLoginComparer" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAQAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>APP_Codes\UserLoginComparer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserLoginComparer" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LD5.APP_Codes.ServerLinkComparer" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAEAAAAAAAAAAA=</HashCode>
+      <FileName>APP_Codes\ServerLinkComparer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ServerLinkComparer" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

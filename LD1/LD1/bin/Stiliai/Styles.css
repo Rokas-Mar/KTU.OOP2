@@ -1,0 +1,67 @@
+﻿.bg {
+    background-color: rgb(30, 30, 30)
+}
+
+.FloatParent {
+    width: 100%;
+    display: inline-flex;
+    padding-top: 30px;
+}
+
+.TableDiv {
+    padding-right: 20%;
+}
+
+.TableBorder {
+    border-width: 0px;
+}
+
+.ResultLabel {
+    padding: 30px;
+}
+
+.Label {
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255, 1);
+    border: 1px solid black;
+}
+
+.btn {
+    float: left;
+    margin-left: 10px;
+    padding: 20px;
+    line-height: 0;
+    text-align: center;
+    background-color: rgb(30, 30, 30);
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.increaseMargin {
+    margin-left: 10px;
+}
+
+body{
+    margin-left: 10px;
+}
+
+.TableFont {
+    font-size: large;
+    font-weight: bold;
+}
+
+.TextBox {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(30, 30, 30);
+    border: 2px solid white;
+    color: white;
+}
+
+.Text {
+    font-family: 'Segoe UI';
+}

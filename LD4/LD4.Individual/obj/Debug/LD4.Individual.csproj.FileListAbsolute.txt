@@ -1,0 +1,8 @@
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\bin\Debug\LD4.Individual.exe.config
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\bin\Debug\LD4.Individual.exe
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\bin\Debug\LD4.Individual.pdb
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\obj\Debug\LD4.Individual.csproj.AssemblyReference.cache
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\obj\Debug\LD4.Individual.csproj.SuggestedBindingRedirects.cache
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\obj\Debug\LD4.Individual.csproj.CoreCompileInputs.cache
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\obj\Debug\LD4.Individual.exe
+D:\KTU\KTU OP\OP2\LD4\LD4.Individual\obj\Debug\LD4.Individual.pdb

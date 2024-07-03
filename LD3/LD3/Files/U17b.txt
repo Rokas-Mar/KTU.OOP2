@@ -1,0 +1,4 @@
+﻿Pavadinimas1;KambarioTipas1;20.20
+Pavadinimas2;KambarioTipas2;21.00
+Pavadinimas3;KambarioTipas3;22.00
+Pavadinimas4;KambarioTipas4;23.00

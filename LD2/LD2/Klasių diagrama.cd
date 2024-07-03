@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LD2.Form1">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAEAAAAAAAAAACQDgAIAAQ8AgAACAAAAYgAkA=</HashCode>
+      <FileName>Classes\FormPartial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Travelers" />
+      <Property Name="LinkedListHotel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD2.Hotel">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAQAAAAAEgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD2.HotelNode">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\HotelNode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD2.InOutUtils">
+    <Position X="11.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAIAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LD2.LinkedListHotel">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAAAAAAMDAAIAAAAAAABAAEBAEAAACAEEQAEA=</HashCode>
+      <FileName>Classes\LinkedListHotel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="HotelNode" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD2.LinkList">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="LD2.LinkList.Node">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\LinkList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgBACAAIAAAAAIBAAAAQEAAAAIAAEBAEAAACAAEYAEA=</HashCode>
+      <FileName>Classes\LinkList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LD2.Traveler">
+    <Position X="18" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAEgACAAgQABAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Traveler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

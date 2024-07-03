@@ -1,0 +1,32 @@
+Pradinis viršus:
+| y; g; r; g; y |
+| y; r; y; r; r |
+| r; y; y; r; y |
+| g; g; y; y; g |
+| g; r; r; g; r |
+| y; g; g; g; y |
+
+Pradinė apačia:
+| y; g; r; y; r |
+| r; y; g; g; r |
+| g; y; r; y; r |
+| r; y; r; y; g |
+| r; g; g; r; r |
+| y; y; y; y; g |
+
+Užpildytas viršus:
+| *; g; r; g; y |
+| *; r; *; r; r |
+| r; *; *; r; * |
+| g; g; *; *; g |
+| g; r; r; g; r |
+| y; g; g; g; y |
+
+Užpildyta apačia:
+| *; g; r; y; r |
+| r; *; g; g; r |
+| g; *; r; *; r |
+| r; *; r; *; g |
+| r; g; g; r; r |
+| y; y; y; y; g |
+

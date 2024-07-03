@@ -1,0 +1,8 @@
+﻿2023-05-03;1.255.255.06
+08:12:53;192.168.1.1;https://www.facebook.com/
+16:53:53;192.168.1.1;https://www.facebook.com/profilis
+23:12:00;192.168.1.1;https://www.facebook.com/nustatymai
+23:12:00;192.168.1.1;https://www.facebook.com/nustatymai
+23:12:00;192.168.1.1;https://www.facebook.com/vienas
+16:57:02;10.1.1.100;https://www.nytimes.com/2023/05/04/world/
+13:20:13;192.168.1.100;https://www.reddit.com/r/worldnews/
